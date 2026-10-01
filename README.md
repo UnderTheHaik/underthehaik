@@ -35,9 +35,15 @@ Articles may be published in **English or French**. Some writings may have versi
 
 Under the Haik is hosted through GitHub Pages.
 
-© Under the Haik
+## Published portfolio websites
 
+Each project has its own public website and repository under the UnderTheHaik GitHub account:
 
-Public showcase: https://underthehaik.github.io/underthehaik/
+- [Under the Haik](https://underthehaik.github.io/underthehaik/) — [source](https://github.com/UnderTheHaik/underthehaik)
+- [Les mots d’un montagnard](https://underthehaik.github.io/les-mots-dun-montagnard/) — [source](https://github.com/UnderTheHaik/les-mots-dun-montagnard)
+- [Sift & Saffron](https://underthehaik.github.io/sift-and-saffron/) — [source](https://github.com/UnderTheHaik/sift-and-saffron)
+- [Haya2](https://underthehaik.github.io/haya2/) — [source](https://github.com/UnderTheHaik/haya2)
+- [Nisma](https://underthehaik.github.io/nisma/) — [source](https://github.com/UnderTheHaik/nisma)
 
-The main branch contains the source. GitHub Pages serves the separately generated gh-pages branch. Deployment workflow examples are retained in deployment-workflows/; they are not enabled automatically.
+Haya2 and Nisma are static storefront previews for portfolio sharing. Checkout, accounts and server filtering require their local WordPress/WooCommerce runtimes. Source checkouts and generated gh-pages checkouts are saved under `work/github-showcase/`; private runtime data and credentials were excluded. The original poetry site's private teaching folder remains local.
+
